@@ -1,0 +1,16 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.dev.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\ref\FirstApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\bin\Debug\net5.0\FirstApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.AssemblyReference.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfoInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfo.cs
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FirstSolution\FirstApplication\obj\Debug\net5.0\FirstApplication.genruntimeconfig.cache

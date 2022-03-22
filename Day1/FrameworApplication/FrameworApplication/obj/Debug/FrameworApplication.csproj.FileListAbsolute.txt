@@ -1,0 +1,8 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\bin\Debug\FrameworApplication.exe.config
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\bin\Debug\FrameworApplication.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\bin\Debug\FrameworApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\obj\Debug\FrameworApplication.csproj.AssemblyReference.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\obj\Debug\FrameworApplication.csproj.SuggestedBindingRedirects.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\obj\Debug\FrameworApplication.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\obj\Debug\FrameworApplication.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\FrameworApplication\FrameworApplication\obj\Debug\FrameworApplication.pdb
