@@ -1,0 +1,154 @@
+ Mobile mobile1 = new Mobile();
+            Mobile mobile2 = mobile1;
+            mobile1.Number = "9876543210";
+            mobile1.Make = "ABC Corp.";
+            mobile1.Color = "Green";
+            mobile1.MakeCall("7766554433");
+            mobile1.ReceiveCall();
+            Console.WriteLine("-----Using mobile2-----------");
+            mobile2.ReceiveCall();
+            Console.WriteLine("----------------------------");
+            Mobile mobile3 = new Mobile();
+            mobile3.Number = "1234567890";
+            mobile3.Make = "XYZ";
+            mobile3.Color = "Black";
+            mobile3.MakeCall("8765432109");
+            mobile3.ReceiveCall();
+            Mobile.Common();
+-------------------
+ Program program = new Program();
+            program.num1 = 100;
+            Console.WriteLine("Object1");
+           UnderstandingStatic us1 = new UnderstandingStatic();
+            us1.PrintNumbers();
+            us1.IncrementNumbers();
+            us1.PrintNumbers();
+            Console.WriteLine("Object2");
+            UnderstandingStatic us2 = new UnderstandingStatic();
+            us2.PrintNumbers();
+            us2.IncrementNumbers();
+            us2.PrintNumbers();
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApplication
+{
+    internal class Mobile
+    {
+        private string number;
+        public string Color { get; set; }
+        public string Number
+        {
+            get {
+                string maskedNumber = "XXXXXXX" + number.Substring(7, 3);
+                return maskedNumber; 
+            }
+            set { number = value; }
+        }
+        public string Make { get; set; }
+        public void MakeCall(string number)
+        {
+            Console.WriteLine("Calling "+number+"......");
+        }
+        public void ReceiveCall()
+        {
+            Console.WriteLine("Tring tring");
+            Console.WriteLine("Receiving call for "+Number);
+        }
+    }
+}
+----------------------------------------
+internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Mobile mobile1 = new Mobile();
+            mobile1.Number = "9876543210";
+            mobile1.Make = "ABC Corp.";
+            mobile1.Color = "Green";
+            mobile1.MakeCall("7766554433");
+            mobile1.ReceiveCall();
+
+        }
+    }
+    ------------------------------
+    using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UnderstandingOOPSApplication
+{
+    internal class UnderstandingStatic
+    {
+        int instanceNumber = 0;
+        static int staticNumber = 0;
+        public void IncrementNumbers()
+        {
+            instanceNumber++;
+            staticNumber++;
+        }
+        public void PrintNumbers()
+        {
+            Console.WriteLine("Value of instance numebr is "+instanceNumber);
+            Console.WriteLine("Value of static numebr is " + staticNumber);
+        }
+    }
+}
+Console.WriteLine("Object1");
+           UnderstandingStatic us1 = new UnderstandingStatic();
+            us1.PrintNumbers();
+            us1.IncrementNumbers();
+            us1.PrintNumbers();
+            Console.WriteLine("Object2");
+            UnderstandingStatic us2 = new UnderstandingStatic();
+            us2.PrintNumbers();
+            us2.IncrementNumbers();
+            us2.PrintNumbers();
+------------------------------------------
+//SmartPhone phone1 = new SmartPhone();
+            //  phone1.MakeCall("9876543210");
+            //  phone1.Number = "7766889900";
+            //  phone1.ReceiveCall();
+            //  phone1.WatchMovie();
+            Mobile mobile = new Mobile("Red", "5566778899", "ksd");
+            mobile.ReceiveCall();
+            mobile.MakeCall("12335435345", "+87");
+
+
+Class
+Object
+Static vs.Instance
+Inheritance
+  Simple, Multi-level, Hirarchi
+Polymorphism
+  Static - Overloading-changing number/order/datatype of arguments
+      Constructor,Method,Operator,Indexer
+  Dynamic - Overriding - Inheritance is mandit-> changing or adding to the funcitionlity of teh base class method
+
+Abstract class -> cannot be instantiated
+Interface -> a way to abstract a class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

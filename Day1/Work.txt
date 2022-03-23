@@ -1,3 +1,6 @@
 Sequence
-Selection
-Iteration
+Selection - If, IF-Else, If-EldeIf
+Iteration - For, While, Do While, foreach
+Links
+https://docs.microsoft.com/en-us/dotnet/csharp/
+https://docs.microsoft.com/en-us/dotnet/fundamentals/

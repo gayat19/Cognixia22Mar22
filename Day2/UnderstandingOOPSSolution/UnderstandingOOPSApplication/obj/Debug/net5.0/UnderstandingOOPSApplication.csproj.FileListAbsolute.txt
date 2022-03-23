@@ -1,0 +1,16 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.runtimeconfig.dev.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\ref\UnderstandingOOPSApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\bin\Debug\net5.0\UnderstandingOOPSApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.csproj.AssemblyReference.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.AssemblyInfoInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.AssemblyInfo.cs
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\ref\UnderstandingOOPSApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day2\UnderstandingOOPSSolution\UnderstandingOOPSApplication\obj\Debug\net5.0\UnderstandingOOPSApplication.genruntimeconfig.cache

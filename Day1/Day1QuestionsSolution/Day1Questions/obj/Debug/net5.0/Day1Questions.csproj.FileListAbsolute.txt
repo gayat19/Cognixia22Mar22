@@ -1,0 +1,16 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.runtimeconfig.dev.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\ref\Day1Questions.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\bin\Debug\net5.0\Day1Questions.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.csproj.AssemblyReference.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.AssemblyInfoInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.AssemblyInfo.cs
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\ref\Day1Questions.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day1\Day1QuestionsSolution\Day1Questions\obj\Debug\net5.0\Day1Questions.genruntimeconfig.cache
