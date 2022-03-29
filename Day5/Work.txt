@@ -1,0 +1,30 @@
+Open API
+  public
+Internal API
+Partner API
+  facebook
+http
+  GET - Read
+  PUT - Update
+  POST - Create
+  DELETE - Delete
+
+Web API - RESTful Service
+Resource - focus
+State-machine
+Employee - Read
+http://localhost:5000/Employee - GET - Read
+http://localhost:5000/Employee/101 - GET-  Reads one employee
+http://localhost:5000/Employee  - POST -(Employee object in the body) - Create an employee
+http://localhost:5000/Employee/101 - PUT- (Employee object in body) - Updates teh employee details
+http://localhost:5000/Employee/101 - DELETE - Deletes the employee with ID 101
+
+
+http://localhost:5000/Employee
+
+
+Services - BL
+EF - DAL
+Controller 
+  Methds -> GET,PUT,POST,DELETE
+request URL -> Controller method?? -> Routing

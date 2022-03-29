@@ -1,0 +1,16 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.runtimeconfig.dev.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\ref\CRUDApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\bin\Debug\net5.0\CRUDApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.csproj.AssemblyReference.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.AssemblyInfoInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.AssemblyInfo.cs
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\ref\CRUDApplication.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\CRUDApplication\CRUDApplication\obj\Debug\net5.0\CRUDApplication.genruntimeconfig.cache

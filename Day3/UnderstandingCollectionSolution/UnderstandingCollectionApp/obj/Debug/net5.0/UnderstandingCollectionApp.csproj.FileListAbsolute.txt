@@ -1,0 +1,15 @@
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.exe
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.runtimeconfig.dev.json
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\ref\UnderstandingCollectionApp.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\bin\Debug\net5.0\UnderstandingCollectionApp.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.AssemblyInfoInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.AssemblyInfo.cs
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.csproj.CoreCompileInputs.cache
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\ref\UnderstandingCollectionApp.dll
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Participants\Day3\UnderstandingCollectionSolution\UnderstandingCollectionApp\obj\Debug\net5.0\UnderstandingCollectionApp.genruntimeconfig.cache

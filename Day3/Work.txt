@@ -1,0 +1,39 @@
+CRUD
+C - Create
+R - Read
+U - Update
+D - Delete
+
+Pizza Store
+View the pizzas
+Add Pizza to the cart
+Delete Item in cart
+But all items from cart
+
+Pizza
+-Id - int
+-Name - string
+-Price - float
+-Description - string
+*Equals
+*ToString
+*GetPizzaDetailsFromUser
+
+
+CartPizza -> Pizza
+-Quantity
+*ToString
+
+pizzas ->List->collection of pizza
+cart ->Dictionary ->key and value(pizza)
+
+App starts 
+Add pizzas
+After adding pizzas
+List the menu
+1)List Pizza
+2)Add Pizza
+3)View Cart
+4)Place Order
+
+ 
