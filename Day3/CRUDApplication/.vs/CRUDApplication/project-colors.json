@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8aa805a1-d95e-477b-8082-014567130939": {
+      "ProjectGuid": "8aa805a1-d95e-477b-8082-014567130939",
+      "DisplayName": "CRUDApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

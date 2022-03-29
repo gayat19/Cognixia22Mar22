@@ -1,0 +1,7 @@
+Create class for
+Employee
+  Id - int
+  Name - string
+  Age - int
+  Salary - float
+  Phone - string
