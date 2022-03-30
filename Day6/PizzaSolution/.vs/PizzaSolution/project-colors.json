@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f223506d-bd37-49a6-8228-406adb2f90bf": {
+      "ProjectGuid": "f223506d-bd37-49a6-8228-406adb2f90bf",
+      "DisplayName": "PizzaAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

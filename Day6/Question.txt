@@ -1,0 +1,13 @@
+Create a WebAPI for doing CRUD of EMployee first locally then to the database
+
+Use DI
+
+Create a WebAPI that will allow user to register and Login
+User Model
+Username
+Password
+FullName
+Role
+
+POST -> Login
+POST -> Register

@@ -1,0 +1,59 @@
+User
+ Username -string
+ Fullname -string
+ Phone -string
+ Age -int
+ Password -byte[]
+ Role -string
+
+
+UserDTO
+ Username -string
+ Password -string
+ Role -string
+ Fullname -string
+ Phone -string
+ Age -int
+
+UserLoginDTO
+ Username -string
+ Password -string
+ Role -string
+ Token - string
+
+Products
+ Id
+ Name
+ Price
+ Quantity
+  
+
+Models
+  User
+  UserDTO
+  UserLoginDTO
+  Product
+Services
+  IUser -> (UserLoginDTO)Login(UserLoginDTO),(UserLoginDTO)Register(UserDTO)
+  UserService -> IUser
+  IToken -> (string)GenerateToken(UserDTO)
+  TokenService ->IToken
+  IRepo<K,T> -> (T)Add(T), ICollection<T>GetAll, (T)GetById(K), (T)Update(T), (T)Delete(K)
+  ProductRepo-> IRepo<int,Product>
+Controller
+  UserController
+    Login -> POST
+    Register -> POST
+  ProductController -> Only logged in user can access all methods
+    Get -> GET
+    GetAll -> GET
+    Create -> POST
+    Update -> PUT
+    Delete -> DELETE
+
+
+Token
+  Header-> Alg+Type
+  Payload-> nameId, role, exp...
+  VerifySignature->Encrypted sign
+
