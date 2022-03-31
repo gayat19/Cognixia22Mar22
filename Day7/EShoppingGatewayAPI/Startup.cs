@@ -36,6 +36,7 @@ namespace EShoppingGatewayAPI
             services.AddDbContext<ShoppingContext>(opts => opts.UseSqlServer(Configuration.GetConnectionString("shoppingCon")));
             services.AddScoped<IUser, UserService>();
             services.AddScoped<IToken, TokenService>();
+            services.AddScoped<IRepo<int, Product>, ProductRepo>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
             {
                 options.TokenValidationParameters = new TokenValidationParameters
