@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EShoppingGatewayAPI.Models
 {
@@ -12,5 +13,8 @@ namespace EShoppingGatewayAPI.Models
         public int Age { get; set; }
         public string FullName { get; set; }
         public string Phone { get; set; }
+        public string Location { get; set; }
+        [ForeignKey("Location")]
+        public ShipLocation ShipLocation { get; set; }
     }
 }

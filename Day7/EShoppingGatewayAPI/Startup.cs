@@ -37,6 +37,7 @@ namespace EShoppingGatewayAPI
             services.AddScoped<IUser, UserService>();
             services.AddScoped<IToken, TokenService>();
             services.AddScoped<IRepo<int, Product>, ProductRepo>();
+            services.AddScoped<ISearch,SearchService>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
             {
                 options.TokenValidationParameters = new TokenValidationParameters
